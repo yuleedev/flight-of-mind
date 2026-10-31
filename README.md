@@ -4,6 +4,7 @@
 Flight of Mind is a serious game made in Unity that transforms established cognitive assessments into engaging airport-themed minigames. The project was created by Yulee Oh, Hannah Huang, Connor Wang, Daniel Li, and Nico Ortiz Neidhart under the mentorship of Professor Sang Nam and Professor James Casey at the Virginia Serious Games Institute, George Mason University.
 
 ## Getting Started/Installation
+Game ZIP file can be downloaded here: https://drive.google.com/file/d/12AZ5vTcPlXIKkKfkqjAPqYP2XMOAhSUH/view?usp=sharing
 
 After extracting the ZIP:
 - **macOS (Recommended):** Launch the `Flight-of-Mind-MAC` application.
